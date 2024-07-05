@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 880px;
+    background-color: rgb(0, 255, 76);
+}
+
+.game_field{
+    height: 800px;
+    width: 800px;
+    background-color: rgb(0, 119, 255);
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#game_f {
+    background-color: aliceblue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
